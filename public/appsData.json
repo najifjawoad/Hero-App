@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "title": "Youtube",
+    "companyName": "Catify Studio",
+    "description": "A playful cat logo perfect for pet brands and fun apps.",
+    "image": "https://i.ibb.co.com/r2N79ZL3/youtube-logo-png-46031.png",
+    "size": 4.6 ,
+    "reviews": 320,
+    "ratingAvg": 4.8,
+    "downloads": "16.8M",
+    "ratings": [
+      { "name": "5 star", "count": 200 },
+      { "name": "4 star", "count": 80 },
+      { "name": "3 star", "count": 26 },
+      { "name": "2 star", "count": 10 },
+      { "name": "1 star", "count": 6 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kawaii Cat Emblem",
+    "companyName": "MeowArts",
+    "description": "Minimalistic cute cat face icon ideal for UI or games.",
+    "image": "https://i.ibb.co.com/m5yBTjv7/demo-app-1.webp",
+    "size": 3.8,
+    "reviews": 210,
+    "ratingAvg": 4.6,
+    "downloads": "9.6M",
+    "ratings": [
+      { "name": "5 star", "count": 8 },
+      { "name": "4 star", "count": 14 },
+      { "name": "3 star", "count": 33 },
+      { "name": "2 star", "count": 65 },
+      { "name": "1 star", "count": 90 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Minimal Cat Outline",
+    "companyName": "PixelCat Studio",
+    "description": "Modern minimalist cat outline for sleek designs.",
+    "image": "https://i.ibb.co.com/hFh45vst/demo-app-3.webp",
+    "size": 5.0,
+    "reviews": 150,
+    "ratingAvg": 4.5,
+    "downloads": "7.8M",
+    "ratings": [
+      { "name": "5 star", "count": 3 },
+      { "name": "4 star", "count": 6 },
+      { "name": "3 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 81 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cartoon Cat Head",
+    "companyName": "Design Kitty",
+    "description": "Cute cartoon-style cat face perfect for children apps.",
+    "image": "https://i.ibb.co.com/Tqk9yDG9/demo-app-4.webp",
+    "size": 4.2,
+    "reviews": 190,
+    "ratingAvg": 4.7,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "5 star", "count": 6 },
+      { "name": "4 star", "count": 10 },
+      { "name": "3 star", "count": 25 },
+      { "name": "2 star", "count": 60 },
+      { "name": "1 star", "count": 89 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Smiling Cat Icon",
+    "companyName": "CatSpace",
+    "description": "Vector icon of a smiling cat with thick outline.",
+    "image": "https://i.ibb.co.com/dCtF8s1/demo-app-5.webp",
+    "size": 4.0,
+    "reviews": 110,
+    "ratingAvg": 4.4,
+    "downloads": "6.7M",
+    "ratings": [
+      { "name": "5 star", "count": 4 },
+      { "name": "4 star", "count": 8 },
+      { "name": "3 star", "count": 18 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 40 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Round Cat Badge",
+    "companyName": "Furry Studio",
+    "description": "Circular logo of a chubby cat perfect for brand mascots.",
+    "image": "https://i.ibb.co.com/dCtF8s1/demo-app-5.webp",
+    "size": 3.9,
+    "reviews": 260,
+    "ratingAvg": 4.9,
+    "downloads": "162M",
+    "ratings": [
+      { "name": "5 star", "count": 2 },
+      { "name": "4 star", "count": 7 },
+      { "name": "3 star", "count": 25 },
+      { "name": "2 star", "count": 65 },
+      { "name": "1 star", "count": 161 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Instagram",
+    "companyName": "DreamCats",
+    "description": "Relaxed cat sleeping pose for chill themes.",
+    "image": "https://i.ibb.co.com/sdP6LkKk/instagram-icon-971.jpg",
+    "size": 4.8,
+    "reviews": 120,
+    "ratingAvg": 4.3,
+    "downloads": "7.2M",
+    "ratings": [
+      { "name": "5 star", "count": 5 },
+      { "name": "4 star", "count": 12 },
+      { "name": "3 star", "count": 25 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 38 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Gmail",
+    "companyName": "VectorTail",
+    "description": "Relaxed cat sleeping pose for chill themes.",
+    "image": "https://i.ibb.co.com/VYrkMB1Z/gmail-icon-38492.jpg",
+    "size": 3.5,
+    "reviews": 330,
+    "ratingAvg": 4.8,
+    "downloads": "16M",
+    "ratings": [
+      { "name": "5 star", "count": 6 },
+      { "name": "4 star", "count": 12 },
+      { "name": "3 star", "count": 22 },
+      { "name": "2 star", "count": 100 },
+      { "name": "1 star", "count": 190 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Adorable Cat Outline",
+    "companyName": "PetWorld",
+    "description": "Simple and adorable cat line-art logo.",
+    "image": "https://i.ibb.co.com/GvTQ6QZB/alight-motion-49820.png",
+    "size": 4.1,
+    "reviews": 290,
+    "ratingAvg": 4.7,
+    "downloads": "14M",
+    "ratings": [
+      { "name": "5 star", "count": 3 },
+      { "name": "4 star", "count": 7 },
+      { "name": "3 star", "count": 33 },
+      { "name": "2 star", "count": 100 },
+      { "name": "1 star", "count": 147 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Glow Up",
+    "companyName": "CatDream Studio",
+    "description": "Logo of a lazy cat lying flat — ideal for chill projects.",
+    "image": "https://i.ibb.co.com/YFFdjdZf/demo-app-2.webp",
+    "size": 5.3,
+    "reviews": 180,
+    "ratingAvg": 4.5,
+    "downloads": "9.6M",
+    "ratings": [
+      { "name": "5 star", "count": 5 },
+      { "name": "4 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "2 star", "count": 55 },
+      { "name": "1 star", "count": 92 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Chubby Cat Face",
+    "companyName": "FatCat Design",
+    "description": "Rounded cute cat face, ideal for game icons.",
+    "image": "https://i.ibb.co.com/YFFdjdZf/demo-app-2.webp",
+    "size": 3.7,
+    "reviews": 210,
+    "ratingAvg": 4.6,
+    "downloads": 8900,
+    "ratings": [
+      { "name": "5 star", "count": 4 },
+      { "name": "4 star", "count": 10 },
+      { "name": "3 star", "count": 27 },
+      { "name": "2 star", "count": 70 },
+      { "name": "1 star", "count": 99 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "DocuScan Pro",
+    "companyName": "StreetPaws",
+    "description": "Stylish cat wearing sunglasses — fun and cool logo.",
+    "image": "https://i.ibb.co.com/yFYkgKch/fax-icon-png-4933.png",
+    "size": 4.4,
+    "reviews": 270,
+    "ratingAvg": 4.9,
+    "downloads": 17400,
+    "ratings": [
+      { "name": "5 star", "count": 2 },
+      { "name": "4 star", "count": 5 },
+      { "name": "3 star", "count": 30 },
+      { "name": "2 star", "count": 80 },
+      { "name": "1 star", "count": 153 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Whatsapp:Chat Securely",
+    "companyName": "Petly",
+    "description": "A cute cat face blended into a paw logo.",
+    "image": "https://i.ibb.co.com/LhBzfj7X/logo-whatsapp-png-46043.png",
+    "size": 3.9,
+    "reviews": 150,
+    "ratingAvg": 4.4,
+    "downloads": 7600,
+    "ratings": [
+      { "name": "5 star", "count": 4 },
+      { "name": "4 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "2 star", "count": 45 },
+      { "name": "1 star", "count": 73 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Twitter:Global Trends",
+    "companyName": "NekoDesigns",
+    "description": "Kawaii cat smile icon perfect for branding or stickers.",
+    "image": "https://i.ibb.co.com/Nd1jt3kK/twitter-icon-97.jpg",
+    "size": 4.1,
+    "reviews": 210,
+    "ratingAvg": 4.7,
+    "downloads": 11200,
+    "ratings": [
+      { "name": "5 star", "count": 5 },
+      { "name": "4 star", "count": 10 },
+      { "name": "3 star", "count": 22 },
+      { "name": "2 star", "count": 60 },
+      { "name": "1 star", "count": 113 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Curious Cat Head",
+    "companyName": "Snapchat",
+    "description": "Expressive curious cat head with big eyes.",
+    "image": "https://i.ibb.co.com/h1nrdvkN/snapchat-logo-46428.png",
+    "size": 4.6,
+    "reviews": 260,
+    "ratingAvg": 4.8,
+    "downloads": 16800,
+    "ratings": [
+      { "name": "5 star", "count": 3 },
+      { "name": "4 star", "count": 9 },
+      { "name": "3 star", "count": 28 },
+      { "name": "2 star", "count": 90 },
+      { "name": "1 star", "count": 130 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Spotify:Music Stream",
+    "companyName": "Spotify",
+    "description": "Clean cat emoji outline great for chat apps.",
+    "image": "https://i.ibb.co.com/jk0Pbf2c/spotify-icon-36840.png",
+    "size": 3.5,
+    "reviews": 180,
+    "ratingAvg": 4.5,
+    "downloads": 9400,
+    "ratings": [
+      { "name": "5 star", "count": 6 },
+      { "name": "4 star", "count": 10 },
+      { "name": "3 star", "count": 24 },
+      { "name": "2 star", "count": 60 },
+      { "name": "1 star", "count": 80 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Netflix",
+    "companyName": "Scratch Labs",
+    "description": "Cute but fierce cat face mascot logo.",
+    "image": "https://i.ibb.co.com/fzcrWqNH/netflix-icon-8289.png",
+    "size": 5.1,
+    "reviews": 310,
+    "ratingAvg": 4.9,
+    "downloads": 18900,
+    "ratings": [
+      { "name": "5 star", "count": 3 },
+      { "name": "4 star", "count": 5 },
+      { "name": "3 star", "count": 25 },
+      { "name": "2 star", "count": 90 },
+      { "name": "1 star", "count": 187 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Chrome",
+    "companyName": "Tailify",
+    "description": "Cat tail forming a heart shape — perfect for pet logos.",
+    "image": "https://i.ibb.co.com/V0WPHHy3/google-chrome-icon-3143.png",
+    "size": 4.0,
+    "reviews": 230,
+    "ratingAvg": 4.6,
+    "downloads": 9700,
+    "ratings": [
+      { "name": "5 star", "count": 4 },
+      { "name": "4 star", "count": 10 },
+      { "name": "3 star", "count": 22 },
+      { "name": "2 star", "count": 70 },
+      { "name": "1 star", "count": 124 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Sleeping Kitten Vector",
+    "companyName": "DreamFur",
+    "description": "Soft and rounded kitten vector illustration.",
+    "image": "https://i.ibb.co.com/YFFdjdZf/demo-app-2.webp",
+    "size": 3.8,
+    "reviews": 200,
+    "ratingAvg": 4.7,
+    "downloads": 9100,
+    "ratings": [
+      { "name": "5 star", "count": 4 },
+      { "name": "4 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "2 star", "count": 60 },
+      { "name": "1 star", "count": 108 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Outline Cat Ears",
+    "companyName": "MeowTech",
+    "description": "Simple geometric cat ears design for tech brands.",
+    "image": "https://i.ibb.co.com/YFFdjdZf/demo-app-2.webp",
+    "size": 4.2,
+    "reviews": 240,
+    "ratingAvg": 4.6,
+    "downloads": 12000,
+    "ratings": [
+      { "name": "5 star", "count": 5 },
+      { "name": "4 star", "count": 8 },
+      { "name": "3 star", "count": 25 },
+      { "name": "2 star", "count": 70 },
+      { "name": "1 star", "count": 132}
+]}
+
+]
+
+
+
+
