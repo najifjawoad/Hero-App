@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link, useParams } from 'react-router';
 import useApps from '../hooks/useApps';
-import { Bar, BarChart, CartesianGrid, LabelList, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+
 
 import { toast, ToastContainer } from 'react-toastify';
 import download from '../assets/icon-downloads.png'
