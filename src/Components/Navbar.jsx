@@ -59,7 +59,7 @@ const Navbar = () => {
         
         <a
        
-          href="https://github.com/Meharab-27"
+          href="https://github.com/najifjawoad"
           target="_blank"
           rel="noopener noreferrer"
           className="btn bg-gradient-to-l from-[#9F62F2] to-[#632EE3] text-white rounded-lg hover:bg-[#8B4FE0]"
