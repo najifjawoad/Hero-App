@@ -106,8 +106,8 @@ Open it in your browser to view the project.
 ## 🔗 Useful Links
 
 * **Live Site:** [https://my-hero-app-jim.netlify.app/](https://my-hero-app-jim.netlify.app/)
-* **Screenshot:** (included above)
+
 
 ---
 
-If you want to customize or extend this README, feel free to ask!
+
